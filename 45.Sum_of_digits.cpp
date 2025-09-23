@@ -11,6 +11,6 @@ int main()
         sum += number % 10;
         number /= 10;
     }
-    cout << "The sum of the digit " << sum << " is " << sum;
+    cout << "The sum of the digit " << sum << " is " << sum<<endl;
     return 0;
 }
